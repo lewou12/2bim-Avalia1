@@ -24,4 +24,4 @@ Framework preset: `None`. Build command: vazio. Build output directory: `public`
 
 Nome: Leonardo Mulhenhoff Borim
 RA: 2026107646
-URL: https://
+URL: https://2bim-avalia1-653.pages.dev
